@@ -5,6 +5,7 @@ The mortality data has multiple dimensions, including gender, injury mechanism, 
 DashboardCode.R is the R code for this interactive visualization.
 
 You could go to https://ceciliashinyaccount.shinyapps.io/mortality/ to get the dashboard.
+
 (Please click the button of "Mortality Dashboard" on the left side of dashboard first after entring the website! Then you will see the fantastic dashboard.)
 
 # 死亡率数据的交互式图表
@@ -14,4 +15,5 @@ You could go to https://ceciliashinyaccount.shinyapps.io/mortality/ to get the d
 DashboardCode.R是这个可交互式可视化面板的R代码。
 
 您可以转到https://ceciliashinyaccount.shinyapps.io/mortality/ 获取交互式的可视化数据。 
+
 （进入网页后，请首先单击dashboard左侧的“死亡率仪表板”按钮！然后您将看到这个dashboard。）
