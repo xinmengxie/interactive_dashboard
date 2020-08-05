@@ -1,4 +1,4 @@
-# Interactive dashboard for Mortality data
+# Interactive dashboard for Mortality Data
 In this project, I applied shinydashboard package in R construct an interactive dashboard to display the data about mortality cases in US.
 The mortality data has multiple dimensions, including gender, injury mechanism, injury intent, age, and race. Interactive charts can clearly show the mortality trends of specific objects (for example: women, suicide, all age groups).
 
